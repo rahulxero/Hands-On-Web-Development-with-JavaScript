@@ -21,7 +21,10 @@ You’ll then learn how to route, test, and create dynamic content for your appl
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for programmers who already know at least one programming language or has some basic JavaScript knowledge but wants to learn JavaScript for front-end application development. It assumes a working knowledge of HTML and CSS.
+<UL>
+<LI>Basic Knowledge of at least one programming language or has some basic JavaScript
+<LI>Basic working knowledge of HTML and CSS
+<LI>This course is for programmers who have curiosity to learn JavaScript for front-end application development.</LI></UL>
 ### Technical Requirements
 This course has the following software requirements:<br/>
 To follow along in this course, you will need the latest version of Node 9 or higher, git, and a decent editor such as VS Code.
